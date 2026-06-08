@@ -34,7 +34,7 @@ Built in Tableau Public — two pages:
 - 8-quarter longitudinal subscriber trend line with per-service dropdown filter
 - Top 10 services by subscription volume — donut chart with 2021/2022 toggle
 
-🔗 [View Dashboard on Tableau Public](#) ← *replace with your link*
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/shared/HX7RSC4HT?:display_count=n&:origin=viz_share_link) 
 
 ---
 
